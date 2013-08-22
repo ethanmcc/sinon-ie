@@ -1,0 +1,12 @@
+{
+  "name": "sinon-ie",
+  "version": "1.5.2",
+  "main": "sinon-ie.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
